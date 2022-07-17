@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/API_Gateway/API_Gateway.iml" filepath="$PROJECT_DIR$/API_Gateway/API_Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CitizenService/CitizenService.iml" filepath="$PROJECT_DIR$/CitizenService/CitizenService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VaccinationCenter/VaccinationCenter.iml" filepath="$PROJECT_DIR$/VaccinationCenter/VaccinationCenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservices.iml" filepath="$PROJECT_DIR$/.idea/microservices.iml" />
     </modules>
   </component>

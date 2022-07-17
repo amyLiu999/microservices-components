@@ -2,9 +2,9 @@ server:
   port: 8082
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/VaccinationCenter
-    username: root
-    password: Password22!
+    url: jdbc:mysql://localhost:3306/vaccination_center
+    username: springstudent
+    password: springstudent
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:

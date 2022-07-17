@@ -8,13 +8,13 @@
 		<version>2.7.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.codebase.microservices</groupId>
+	<groupId>com.chuwa.microservices</groupId>
 	<artifactId>VaccinationCenter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>VaccinationCenter</name>
 	<description>Demo project for VaccinationCenter</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.3</spring-cloud.version>
 	</properties>
 	<dependencies>
